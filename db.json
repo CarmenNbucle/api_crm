@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carmen",
+      "empresa": "Nbucle",
+      "email": "carmen.nbucle@gmail.com",
+      "telefono": "685351484",
+      "notas": "La primera nota del cliente",
+      "id": 1
+    },
+    {
+      "nombre": "María de la O",
+      "empresa": "Nbucle",
+      "email": "mariao.nbucle@gmail.com",
+      "telefono": "123456789",
+      "notas": "Segunda nota del cliente modificada",
+      "id": 2
+    },
+    {
+      "nombre": "Carlitos",
+      "empresa": "Nbucle",
+      "email": "carlos.nbucle@gmail.com",
+      "telefono": "25987456",
+      "notas": "Tercer comentario modificar",
+      "id": 3
+    },
+    {
+      "nombre": "Carmen",
+      "empresa": "Nbucle",
+      "email": "carmen.nbucle@gmail.com",
+      "telefono": "123456789",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Carmen",
+      "empresa": "Nbucle",
+      "email": "carmen.nbucle@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Carmen",
+      "empresa": "Nbucle",
+      "email": "carmen.nbucle@gmail.com",
+      "telefono": "25987456",
+      "notas": "",
+      "id": 8
+    }
+  ]
+}
